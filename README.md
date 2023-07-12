@@ -5,7 +5,6 @@ Neuro-Symbolic Question Answering for Road Traffic Scenes
 The repository is structured the following way:
 
 ## Models 
-There are four GANs with each implementation in the folder with its name:
 
 - [QuestionsParser](Questions)
 - [SceneParser](SceneParser)
