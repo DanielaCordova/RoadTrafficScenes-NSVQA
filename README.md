@@ -1,6 +1,8 @@
 # RoadTrafficScenes-NSVQA
 Neuro-Symbolic Question Answering for Road Traffic Scenes
- 
+
+The research paper can be found [here](https://oa.upm.es/75996/).
+
 # Github Structure
 The repository is structured the following way:
 
